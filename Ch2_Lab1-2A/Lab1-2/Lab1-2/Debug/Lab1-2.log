@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  function_1.c
+  function_2.c
+  function_3.c
+  function_4.c
+  function_5.c
+  正在產生程式碼...
+  Lab1-2.vcxproj -> F:\c_code\Ch2_Lab1-2A\Lab1-2\Lab1-2\..\..\temp\debug\Lab1-2.exe
